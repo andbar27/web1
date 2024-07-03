@@ -20,22 +20,23 @@ head = """
     <body style="text-align: center;">
         <h1>HELLO WORLD</h1>
         <div class="container text-center">
-            <div class="row row-cols-3">"""
+            <div class="row row-cols-3">
+"""
 
 scheda ="""
-            <div class="col">
-                <div class="card" style="width: 18rem;">
-                    <img src="img/cane-di-razza.jpg" class="card-img-top" alt="cane-di-razza" width="400" height="300">
-                    <div class="card-body">
-                        <h5 class="card-title">Cane di razza</h5>
-                        <p class="card-text">Good boy, brown dog, race: boh</p>
-                        <a href="#" class="btn btn-primary">Go Dog Go</a>
+                <div class="col">
+                    <div class="card" style="width: 18rem;">
+                        <img src="img/cane-di-razza.jpg" class="card-img-top" alt="cane-di-razza" width="400" height="300">
+                        <div class="card-body">
+                            <h5 class="card-title">Cane di razza</h5>
+                            <p class="card-text">Good boy, brown dog, race: boh</p>
+                            <a href="#" class="btn btn-primary">Go Dog Go</a>
+                        </div>
                     </div>
-                </div>
-            </div>"""
+                </div>"""
 
 ended = """
-        </div>
+            </div>
         </div>
         
     </body>
