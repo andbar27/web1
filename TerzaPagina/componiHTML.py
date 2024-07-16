@@ -42,7 +42,9 @@ ended = """
     </body>
 </html>"""
 
+n = int(input())
+
 print(head)
-for i in range(5):
+for i in range(n):
     print(scheda)
 print(ended)
